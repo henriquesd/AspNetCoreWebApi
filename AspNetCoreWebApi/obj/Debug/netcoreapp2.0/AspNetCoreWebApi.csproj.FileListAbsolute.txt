@@ -1,0 +1,11 @@
+C:\Users\Henrique\source\repos\AspNetCoreWebApi\AspNetCoreWebApi\bin\Debug\netcoreapp2.0\AspNetCoreWebApi.deps.json
+C:\Users\Henrique\source\repos\AspNetCoreWebApi\AspNetCoreWebApi\bin\Debug\netcoreapp2.0\AspNetCoreWebApi.runtimeconfig.json
+C:\Users\Henrique\source\repos\AspNetCoreWebApi\AspNetCoreWebApi\bin\Debug\netcoreapp2.0\AspNetCoreWebApi.runtimeconfig.dev.json
+C:\Users\Henrique\source\repos\AspNetCoreWebApi\AspNetCoreWebApi\bin\Debug\netcoreapp2.0\AspNetCoreWebApi.dll
+C:\Users\Henrique\source\repos\AspNetCoreWebApi\AspNetCoreWebApi\bin\Debug\netcoreapp2.0\AspNetCoreWebApi.pdb
+C:\Users\Henrique\source\repos\AspNetCoreWebApi\AspNetCoreWebApi\obj\Debug\netcoreapp2.0\AspNetCoreWebApi.csprojResolveAssemblyReference.cache
+C:\Users\Henrique\source\repos\AspNetCoreWebApi\AspNetCoreWebApi\obj\Debug\netcoreapp2.0\AspNetCoreWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\repos\AspNetCoreWebApi\AspNetCoreWebApi\obj\Debug\netcoreapp2.0\AspNetCoreWebApi.AssemblyInfoInputs.cache
+C:\Users\Henrique\source\repos\AspNetCoreWebApi\AspNetCoreWebApi\obj\Debug\netcoreapp2.0\AspNetCoreWebApi.AssemblyInfo.cs
+C:\Users\Henrique\source\repos\AspNetCoreWebApi\AspNetCoreWebApi\obj\Debug\netcoreapp2.0\AspNetCoreWebApi.dll
+C:\Users\Henrique\source\repos\AspNetCoreWebApi\AspNetCoreWebApi\obj\Debug\netcoreapp2.0\AspNetCoreWebApi.pdb
